@@ -7,8 +7,7 @@ C++과 SFML을 활용하여 각자 담당 기능의 **게임 로직 및 그래�
 
 | 팀원 | 역할 | 주요 담당 내용 |
 |---|---|---|
-| **김초아** 
-**(팀장)** | **Network / Main System / UI / Integration** | **TCP/IP 네트워크 연동, 실시간 채팅, 메인 SFML 시스템 구현, 코드 통합, 야간 시야 제한, 게임 UI 및 전체 디자인** |
+| **김초아** **(팀장)** | **Network / Main System / UI / Integration** | **TCP/IP 네트워크 연동, 실시간 채팅, 메인 SFML 시스템 구현, 코드 통합, 야간 시야 제한, 게임 UI 및 전체 디자인** |
 | 박지수 (부팀장) | Item / Shop / Player Attack | 아이템 시스템, 상점 시스템, 플레이어 공격 기능 구현 |
 | 김상원 (팀원) | Enemy / Stage / Damage | 적 캐릭터, 적 공격 패턴, 스테이지, 피해 처리 시스템 구현 |
 | 김승환 (팀원) | Game Structure / Presentation | 게임 기본 구조 및 전체 틀 구현, 발표용 PPT 제작 |
