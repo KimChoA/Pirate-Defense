@@ -384,33 +384,6 @@ Pirate-Defense
 
 > 소스 코드 내부에서 **`[김초아 담당]`** 주석을 검색하면  
 > 담당한 핵심 구현 위치를 빠르게 확인할 수 있습니다.
-
----
-
-## 🖼️ 실행 화면
-
-### 메인 화면
-```markdown
-![Main Screen](./PirateDefense/assets/main_screen.png)
-```
-
-### 대기방 / 방 생성 화면
-```markdown
-![Lobby Screen](./PirateDefense/assets/lobby_screen.png)
-```
-
-### 멀티플레이 전투 화면
-```markdown
-![Battle Screen](./PirateDefense/assets/battle_screen.png)
-```
-
-### 밤 시야 제한 화면
-```markdown
-![Night Vision Screen](./PirateDefense/assets/night_screen.png)
-```
-
-> 위 이미지들은 실제 스크린샷 파일명에 맞게 바꿔서 넣으시면 됩니다.
-
 ---
 
 ## 🚀 빌드 및 실행
