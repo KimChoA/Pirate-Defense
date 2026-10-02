@@ -328,25 +328,6 @@ Pirate-Defense
 
 > 소스 코드 내부에서 **`[김초아 담당]`** 주석을 검색하면  
 > 담당한 핵심 구현 위치를 빠르게 확인할 수 있습니다.
----
-
-## 🚀 빌드 및 실행
-
-### 1. 개발 환경
-- Windows
-- Visual Studio 2022
-- SFML
-
-### 2. 실행 방법
-1. `PirateDefense.sln` 파일을 Visual Studio에서 엽니다.
-2. 빌드 구성을 확인합니다.
-3. 프로젝트를 빌드합니다.
-4. 실행 시 필요한 리소스와 DLL이 포함된 `Runtime` 폴더를 함께 유지합니다.
-
-또는
-
-- `Runtime/PirateDefense.exe` 직접 실행
-- `run.cmd`를 통한 실행
 
 ---
 
